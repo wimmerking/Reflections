@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+it enables you to commit and track the data through the use of git in that given directory.
