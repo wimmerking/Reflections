@@ -5,3 +5,7 @@ it enables you to commit and track the data through the use of git in that given
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It allows you to prepare the files and select what you would like to commit or not
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+you may make changes and not want to make them visible to others just yet.
