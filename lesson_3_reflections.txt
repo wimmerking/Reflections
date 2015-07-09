@@ -5,3 +5,7 @@ you would do this if you were working colaboratively on a project and needed the
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are used when you do not have access to make alterations to a repo clones are the duplication of a repo and branches refer to different setions of code within your project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+it is beneficial because you can easily check the previous state of the remote branch and compare changes made by others if you are working colaboratively.
